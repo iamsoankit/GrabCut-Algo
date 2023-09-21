@@ -28,10 +28,3 @@ Conda env file has been provided to be used as `conda env create -f env.yml`.
 ## Explanations and Report
 
 Find the explanations, report and experiments done in the given [pdf](GrabCut_Algorithm.pdf).
-
-### Project by
-
-- Aman Rojjha (2019111018)
-- Bhaskar Joshi (2019111002)
-- Vedansh Mittal (2019101054)
-- Utkarsh Upadhyay (2019101010)
